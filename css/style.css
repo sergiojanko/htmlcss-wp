@@ -120,9 +120,14 @@ nav ul li{
     width: 57%;
     padding-left: 30px;
     padding-right: 30px;
+    height: 100%;;
 }
 .container .col{
     width: 20%;
+}
+
+.col{
+    height: 100%;
 }
 
 .shadow{
@@ -139,5 +144,14 @@ nav ul li{
     font-weight: 900;
     width: 100%;
     padding: 10px 0;
-
 }
+
+footer{
+    color: black;
+    text-align: center;
+}
+
+footer span{
+    color: red;
+}
+
