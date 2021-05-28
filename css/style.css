@@ -47,6 +47,8 @@ nav ul li{
 
 /* Main */
 
+/* Spotlight */
+
 .spotlight{
     height: 350px;
     background-image: url(../img/banner.jpg);
@@ -78,6 +80,7 @@ nav ul li{
     margin-bottom: 30px;;
 }
 
+/* Columns */
 
 .container div{
     display: inline-block;
