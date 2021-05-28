@@ -15,6 +15,9 @@ body{
     display: table;
     clear: both;
 }
+.float-left{
+    float: left;
+}
 
 .mega-container{
     max-width: 1200px;
@@ -71,6 +74,9 @@ nav ul li{
 .container{
     margin: 30px 0;
 }
+.main-header{
+    margin-bottom: 30px;;
+}
 
 
 .container div{
@@ -98,7 +104,6 @@ nav ul li{
 }
 .container .col,.main-col{
     height: 100px;
-    background-color: red;
 }
 
 #img-col-right{
@@ -112,7 +117,7 @@ nav ul li{
 }
 
 .container .main-col{
-    width: 58%;
+    width: 57%;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -127,4 +132,12 @@ nav ul li{
     opacity: 30%;
     
   
+}
+
+.title{
+    color: black;
+    font-weight: 900;
+    width: 100%;
+    padding: 10px 0;
+
 }
