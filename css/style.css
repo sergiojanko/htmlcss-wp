@@ -82,7 +82,9 @@ nav ul li{
     background-image: url(../img/banner-2.png);
     height: 100px;
     width: 100%;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
 }
 
@@ -90,7 +92,9 @@ nav ul li{
     height: 100px;
     width: 100%;
     background-image: url(../img/img-1.jpg);
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .container .col,.main-col{
     height: 100px;
@@ -101,7 +105,9 @@ nav ul li{
     background-image: url(../img/img-3.jpg);
     height: 100px;
     width: 100%;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
 }
 
