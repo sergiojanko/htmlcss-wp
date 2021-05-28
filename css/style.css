@@ -7,7 +7,7 @@
 
 body{
     color: #bbb;
-    font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 .clearfix::after{
@@ -23,6 +23,7 @@ body{
     max-width: 1200px;
     width: 80%;
     margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* Header */
