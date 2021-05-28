@@ -35,3 +35,28 @@ nav ul li{
     font-size: 12px;
     padding-right: 10px;
 }
+
+/* Main */
+
+.spotlight{
+    height: 350px;
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    color: #fff;
+}
+.spotlight-text{
+    padding: 200px 30px 50px 30px;
+    width: 50%;
+}
+
+.spotlight-text div:first-child{
+    font-size: 22px;
+}
+.spotlight-text div:last-child{
+    font-size: 11px;
+    padding-top: 10px;
+}
+
