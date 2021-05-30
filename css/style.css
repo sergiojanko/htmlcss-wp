@@ -93,7 +93,7 @@ nav ul li{
     height: 100px;
     width: 100%;
     background-size: cover;
-    background-position: center;
+    background-position: 50% 30%;
     background-repeat: no-repeat;
 
 }
@@ -121,13 +121,13 @@ nav ul li{
 }
 
 .container .main-col{
-    width: 57%;
+    width: 67%;
     padding-left: 30px;
     padding-right: 30px;
     height: 100%;;
 }
 .container .col{
-    width: 20%;
+    width: 15%;
 }
 
 .col{
